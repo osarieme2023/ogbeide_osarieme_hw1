@@ -12,7 +12,7 @@
  -learning <br>
  -new skills Fixing nails <br>
 
-![medium length black gradient nail with 3d design](images/black_nails.JPG)
+![medium length black gradient nail with 3d design](images/black_nails.JPG) *made by me- ig:nailsbyonoh*
  
  <U>**Favorite songs:**</U><br>
  -Yellow by coldplay <br>
