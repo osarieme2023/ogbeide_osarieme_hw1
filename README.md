@@ -6,29 +6,36 @@
  <u>**About:**</U>
   My name is Ogbeide Osarieme, i'm from Edo State in Nigeria. I'm 24 years old and one fun fact about me is that i love to learn new skills.
 
- <U>**Hobbies:**</U> 
- -Reading 
- -cooking 
- -learning 
- -new skills Fixing nails
+ <U>**Hobbies:**</U> <br>
+ -Reading <br>
+ -cooking <br>
+ -learning <br>
+ -new skills Fixing nails <br>
 
 ![medium length black gradient nail with 3d design](images/black_nails.JPG)
  
- <U>**Favorite songs:**</U>
- -Yellow by coldplay 
- -Heatwaves by Glass animals 
- -Melting by Kali Uchis 
- -Lost by Frank Ocean 
- -Fue Mejor by Kali Uchis ft SZA 
- -El Barco by Karol G
+ <U>**Favorite songs:**</U><br>
+ -Yellow by coldplay <br>
+ -Heatwaves by Glass animals <br>
+ -Melting by Kali Uchis <br>
+ -Lost by Frank Ocean <br>
+ -Fue Mejor by Kali Uchis ft SZA <br>
+ -El Barco by Karol G<br>
+
+![a beautiful bouquet of fresh flowers](images/flower_bouquet.JPG)
 
 
-<U>**countries i would love to visit:**</U>
--singapore
--bali
--mexico
--egypt
--paris
+
+
+
+![a plate of steaming hot jollof rice paired with some chicken thighs](images/jollof_rice.JPG)
+
+<U>**countries i would love to visit:**</U><br>
+-Singapore<br>
+-Bali<br>
+-Mexico<br>
+-Egypt<br>
+-Paris<br>
 
 
 [Myfavoritewebsite](http://www.kiarasky.com/)
@@ -62,36 +69,4 @@
   -Greece<br>
 
 
- Countries i would love to visit: Morroco , Eygpt, Jerusalem, Greece
 
-
-
-  <br>
-
-
-
-# EMMANUEL OPADELE
-
- <u>**About:**</u> 
- My name is Emmmanuel Opadele
- I'm from Osun State in Nigeria. 
- My favorite colour is Red
-
- <u>**Hobbies:**</u> 
- -Gaming 
- -Hunting for new techs 
- -watching movies
-
- <u>**Favorite songs:**</u> 
- -Purple reign by Future 
- -Promises by Young thug 
- -God is Good by Don Moen
-
- <u>**Countries i would love to visit:**</u> 
-  -Morroco
-  -Eygpt
-  -Jerusalem
-  -Greece
-
-
-  [My Favorite Website ](http://www.pinterest.com/)
