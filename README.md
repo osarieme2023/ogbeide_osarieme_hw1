@@ -10,13 +10,32 @@ Where Pixels Create Smiles!
 
  Countries i would love to visit: Turkey Singapore Bali Dubai Mauritius 
 
- 
+ <br>
 
 
- About: My name is Emmmanuel Opadele, i'm from Osun State in Nigeria. I'm 29 years old and one fun fact about me my favorite colour is Red
 
- Hobbies: Gaming, Hunting for new techs, watching movies
+#EMMANUEL OPADELE
 
- Favorite songs: Purple reign by Future, promises by Young thug, God is Good by Don Moen
+ <u>**About:**</u> 
+ My name is Emmmanuel Opadele
+ I'm from Osun State in Nigeria. 
+ My favorite colour is Red
 
- Countries i would love to visit: Morroco , Eygpt, Jerusalem, Greece
+ <u>**Hobbies:**</u> 
+ -Gaming 
+ -Hunting for new techs 
+ -watching movies
+
+ <u>**Favorite songs:**</u> 
+ -Purple reign by Future 
+ -Promises by Young thug 
+ -God is Good by Don Moen
+
+ <u>**Countries i would love to visit:**</u> 
+  -Morroco
+  -Eygpt
+  -Jerusalem
+  -Greece
+
+
+  [My Favorite Website ](http://www.pinterest.com/)
