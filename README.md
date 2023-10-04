@@ -30,28 +30,28 @@
 
 
 
-#EMMANUEL OPADELE
+# EMMANUEL OPADELE
 
  <u>**About:**</u> 
  My name is Emmmanuel Opadele
  I'm from Osun State in Nigeria. 
  My favorite colour is Red
 
- <u>**Hobbies:**</u> 
- -Gaming 
- -Hunting for new techs 
- -watching movies
+ <u>**Hobbies:**</u> <br>
+ -Gaming <br>
+ -Hunting for new techs <br>
+ -watching movies<br>
 
- <u>**Favorite songs:**</u> 
- -Purple reign by Future 
- -Promises by Young thug 
- -God is Good by Don Moen
+ <u>**Favorite songs:**</u> <br>
+ -Purple reign by Future <br>
+ -Promises by Young thug <br>
+ -God is Good by Don Moen<br>
 
- <u>**Countries i would love to visit:**</u> 
-  -Morroco
-  -Eygpt
-  -Jerusalem
-  -Greece
+ <u>**Countries i would love to visit:**</u> <br>
+  -Morroco<br>
+  -Eygpt<br>
+  -Jerusalem<br>
+  -Greece<br>
 
 
   [My Favorite Website ](http://www.pinterest.com/)
