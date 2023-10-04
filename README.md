@@ -48,6 +48,8 @@
  -Hunting for new techs <br>
  -watching movies<br>
 
+![neon red light gamepad](images/gamepad.jpeg)
+
  <u>**Favorite songs:**</u> <br>
  -Purple reign by Future <br>
  -Promises by Young thug <br>
