@@ -43,55 +43,19 @@
  I'm from Osun State in Nigeria. 
  My favorite colour is Red
 
- <u>**Hobbies:**</u> <br>
- -Gaming <br>
- -Hunting for new techs <br>
- -watching movies<br>
+ <u>**Hobbies:**</u><br> -Gaming <br>-Hunting for new techs <br>-watching movies<br>
 
-![neon red light gamepad](images/gamepad.jpeg)
+ ![neon red light gamepad](images/gamepad.jpeg)
 
- <u>**Favorite songs:**</u> <br>
- -Purple reign by Future <br>
- -Promises by Young thug <br>
- -God is Good by Don Moen<br>
+ <u>**Favorite songs:**</u> <br>-Purple reign by Future <br>-Promises by Young thug <br>-God is Good by Don Moen<br>
 
- <u>**Countries i would love to visit:**</u> <br>
-  -Morroco<br>
-  -Eygpt<br>
-  -Jerusalem<br>
-  -Greece<br>
+ ![image of song by future](images/PurpleFuture.jpeg)
 
+ <u>**Countries i would love to visit:**</u> <br>-Morroco<br>-Eygpt  <br>-Jerusalem<br>-Greece<br>
 
- Countries i would love to visit: Morroco , Eygpt, Jerusalem, Greece
+![a beautiful island](images/SmallBeach.jpeg)
 
 
 
-  <br>
-
-
-
-# EMMANUEL OPADELE
-
- <u>**About:**</u> 
- My name is Emmmanuel Opadele
- I'm from Osun State in Nigeria. 
- My favorite colour is Red
-
- <u>**Hobbies:**</u> 
- -Gaming 
- -Hunting for new techs 
- -watching movies
-
- <u>**Favorite songs:**</u> 
- -Purple reign by Future 
- -Promises by Young thug 
- -God is Good by Don Moen
-
- <u>**Countries i would love to visit:**</u> 
-  -Morroco
-  -Eygpt
-  -Jerusalem
-  -Greece
-
-
-  [My Favorite Website ](http://www.pinterest.com/)
+&copy; **PIXEL PALS 2023**
+ 
