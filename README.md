@@ -60,4 +60,36 @@
   -Greece<br>
 
 
+ Countries i would love to visit: Morroco , Eygpt, Jerusalem, Greece
+
+
+
+  <br>
+
+
+
+# EMMANUEL OPADELE
+
+ <u>**About:**</u> 
+ My name is Emmmanuel Opadele
+ I'm from Osun State in Nigeria. 
+ My favorite colour is Red
+
+ <u>**Hobbies:**</u> 
+ -Gaming 
+ -Hunting for new techs 
+ -watching movies
+
+ <u>**Favorite songs:**</u> 
+ -Purple reign by Future 
+ -Promises by Young thug 
+ -God is Good by Don Moen
+
+ <u>**Countries i would love to visit:**</u> 
+  -Morroco
+  -Eygpt
+  -Jerusalem
+  -Greece
+
+
   [My Favorite Website ](http://www.pinterest.com/)
