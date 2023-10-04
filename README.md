@@ -23,9 +23,15 @@
  -El Barco by Karol G
 
 
+<U>**countries i would love to visit:**</U>
+-singapore
+-bali
+-mexico
+-egypt
+-paris
 
 
-[Myfavoritewebsite] (http://www.kiarasky.com/)
+[Myfavoritewebsite](http://www.kiarasky.com/)
  <br>
 
 
