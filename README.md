@@ -1,15 +1,31 @@
-PIXEL PALS
+# PIXEL PALS
 
-Where Pixels Create Smiles!
+*Where Pixels Create Smiles!*
 
- About: My name is Ogbeide Osarieme, i'm from Edo State in Nigeria. I'm 24 years old and one fun fact about me is that i love to learn new skills.
 
- Hobbies: Reading cooking learning new skills Fixing nails
+ <u>**About:**</U>
+  My name is Ogbeide Osarieme, i'm from Edo State in Nigeria. I'm 24 years old and one fun fact about me is that i love to learn new skills.
 
- Favorite songs: Yellow by coldplay Heatwaves by Glass animals Melting by Kali Uchis Lost by Frank Ocean Fue Mejor by Kali Uchis ft SZA El Barco by Karol G
+ <U>**Hobbies:**</U> 
+ -Reading 
+ -cooking 
+ -learning 
+ -new skills Fixing nails
 
- Countries i would love to visit: Turkey Singapore Bali Dubai Mauritius 
+![medium length black gradient nail with 3d design](images/black_nails.JPG)
+ 
+ <U>**Favorite songs:**</U>
+ -Yellow by coldplay 
+ -Heatwaves by Glass animals 
+ -Melting by Kali Uchis 
+ -Lost by Frank Ocean 
+ -Fue Mejor by Kali Uchis ft SZA 
+ -El Barco by Karol G
 
+
+
+
+[Myfavoritewebsite] (http://www.kiarasky.com/)
  <br>
 
 
